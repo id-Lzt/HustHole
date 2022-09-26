@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="HH_BandColor_3">#67C098</color>
+    <color name="HH_Background">@color/BlackScale_1</color>
+    <color name="HH_OnBackground">@color/BlackScale_2</color>
+    <color name="HH_Surface">@color/BlackScale_2</color>
+    <color name="HH_OnSurface">@color/GrayScale_98</color>
+</resources>
